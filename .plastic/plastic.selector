@@ -1,0 +1,4 @@
+repository "3D Beginner@ssl://wechat_os_qy0692vhnpqijb7pxwtysbsli@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
